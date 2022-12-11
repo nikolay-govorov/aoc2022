@@ -14,3 +14,7 @@ day3:
 day4:
 	dune exec day4/main.exe
 
+.PHONY: day5
+day5:
+	dune exec day5/main.exe
+
