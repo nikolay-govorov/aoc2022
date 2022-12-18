@@ -30,3 +30,7 @@ day7:
 day8:
 	dune exec day8/main.exe
 
+.PHONY: day9
+day9:
+	dune exec day9/main.exe
+
